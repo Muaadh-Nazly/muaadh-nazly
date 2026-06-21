@@ -62,8 +62,7 @@ I ship them.
 | [Legal Argument Summarization](https://github.com/Muaadh-Nazly/legal-summarizer) | GNN + BERT pipeline for automated legal summarization | PyTorch, GNNs, PEFT, Transformers |
 | [Disaster Prediction System](https://github.com/Muaadh-Nazly/disaster-predictor) | Multi-hazard early warning with Android app | XGBoost, Flask, Firebase, Android |
 | [Fall Detection System](https://github.com/Muaadh-Nazly/fall-detector) | Real-time edge-optimised fall detection | YOLOv5, MediaPipe, TFLite, FastAPI |
-| [PDF RAG QA System](https://github.com/Muaadh-Nazly) | LangChain RAG over unstructured PDFs | FAISS, LangChain, GoogleGenerativeAI |
-
+| [PDF RAG QA System](https://github.com/Muaadh-Nazly/pdf-rag-qa) | RAG-based QA over uploaded PDFs with Gemini embeddings and Groq LLaMA 3.3 | FAISS, Google Gemini, Groq, Streamlit |
 ---
 
 ## 📌 Current Focus
